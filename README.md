@@ -7,3 +7,4 @@ Esta es una aplicacion de administracion de propiedades
 - Juan Pablo Gaviria Salazar
 - Yennifer Marcela Tobon Yate
 - Juan José Arango Díaz
+- Juan José Ocampo Castaño
