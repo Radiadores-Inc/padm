@@ -1,5 +1,7 @@
 # padm
 
+Esta es una aplicacion de administracion de propiedades
+
 ## Por
 
 - Juan Jose Ocampo
