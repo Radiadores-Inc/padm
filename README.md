@@ -8,3 +8,4 @@ Esta es una aplicacion de administracion de propiedades
 - Yennifer Marcela Tobon Yate
 - Juan José Arango Díaz
 - Juan José Ocampo Castaño
+- Carlos Arturo Orrego Franco
