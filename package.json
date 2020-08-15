@@ -1,0 +1,19 @@
+{
+  "name": "padm",
+  "version": "1.0.0",
+  "description": "Aplicacion de administracion de propiedades horizontales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Radiadores-Inc/padm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Radiadores-Inc/padm/issues"
+  },
+  "homepage": "https://github.com/Radiadores-Inc/padm#readme"
+}
