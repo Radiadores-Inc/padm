@@ -1,0 +1,4 @@
+# Este es un ejemplo de las variables que se deben de colocar en el archivo .env
+APPLICATION_NAME=Padm
+PORT=80
+DB_URI=mongodb://localhost:27017/padmdb
