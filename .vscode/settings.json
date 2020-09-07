@@ -1,6 +1,13 @@
 {
+<<<<<<< HEAD
+	"prettier.useTabs": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true
+=======
     "prettier.useTabs": true,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.formatOnType": true
+>>>>>>> da40c61d93bf24b38079cabde013983fe0cc6592
 }
