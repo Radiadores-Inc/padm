@@ -5,4 +5,4 @@ module.exports = (err, req, res, next) => {
         status: httpStatus,
         message: err.message || 'Ha ocurrido un error en el servidor'
     });
-}
+};

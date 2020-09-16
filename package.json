@@ -1,32 +1,32 @@
 {
-  "name": "padm",
-  "version": "1.0.0",
-  "description": "Aplicacion de administracion de propiedades horizontales",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
-    "dev": "ENV=develop nodemon -L app.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Radiadores-Inc/padm.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Radiadores-Inc/padm/issues"
-  },
-  "homepage": "https://github.com/Radiadores-Inc/padm#readme",
-  "dependencies": {
-    "colors": "^1.4.0",
-    "dotenv": "^8.2.0",
-    "express": "^4.17.1",
-    "express-async-errors": "^3.1.1",
-    "moment": "^2.27.0",
-    "mongoose": "^5.10.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.4"
-  }
+    "name": "padm",
+    "version": "1.0.0",
+    "description": "Aplicacion de administracion de propiedades horizontales",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app.js",
+        "dev": "ENV=develop nodemon -L app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Radiadores-Inc/padm.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Radiadores-Inc/padm/issues"
+    },
+    "homepage": "https://github.com/Radiadores-Inc/padm#readme",
+    "dependencies": {
+        "colors": "^1.4.0",
+        "dotenv": "^8.2.0",
+        "express": "^4.17.1",
+        "express-async-errors": "^3.1.1",
+        "moment": "^2.27.0",
+        "mongoose": "^5.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
 }
